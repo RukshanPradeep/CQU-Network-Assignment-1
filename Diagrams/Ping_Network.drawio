@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" modified="2023-07-30T22:34:30.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BR4YMIrKU-GoAa70mC3i" version="21.6.6" type="device">
+  <diagram name="Page-1" id="93JwyqKeXzGkYX_SisqT">
+    <mxGraphModel dx="1144" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P35z_jEAowUVgM2IOSMm-1" value="Device 1" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="108" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P35z_jEAowUVgM2IOSMm-2" value="MAC: RealtekU_12:35:02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="209" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P35z_jEAowUVgM2IOSMm-6" value="Device 2" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="369" y="108" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P35z_jEAowUVgM2IOSMm-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P35z_jEAowUVgM2IOSMm-1" target="P35z_jEAowUVgM2IOSMm-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="395" as="sourcePoint" />
+            <mxPoint x="60" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P35z_jEAowUVgM2IOSMm-9" value="UDP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="P35z_jEAowUVgM2IOSMm-7">
+          <mxGeometry x="-0.1357" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P35z_jEAowUVgM2IOSMm-8" value="IP: 10.0.3.2&lt;br&gt;MAC: RealtekU_12:35:02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="205" width="233" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
